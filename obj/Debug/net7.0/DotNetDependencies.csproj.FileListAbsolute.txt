@@ -1,0 +1,15 @@
+/Users/nando/Desktop/PracticeCoding/DotNetDependencies/bin/Debug/net7.0/DotNetDependencies
+/Users/nando/Desktop/PracticeCoding/DotNetDependencies/bin/Debug/net7.0/DotNetDependencies.deps.json
+/Users/nando/Desktop/PracticeCoding/DotNetDependencies/bin/Debug/net7.0/DotNetDependencies.runtimeconfig.json
+/Users/nando/Desktop/PracticeCoding/DotNetDependencies/bin/Debug/net7.0/DotNetDependencies.dll
+/Users/nando/Desktop/PracticeCoding/DotNetDependencies/bin/Debug/net7.0/DotNetDependencies.pdb
+/Users/nando/Desktop/PracticeCoding/DotNetDependencies/obj/Debug/net7.0/DotNetDependencies.csproj.AssemblyReference.cache
+/Users/nando/Desktop/PracticeCoding/DotNetDependencies/obj/Debug/net7.0/DotNetDependencies.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nando/Desktop/PracticeCoding/DotNetDependencies/obj/Debug/net7.0/DotNetDependencies.AssemblyInfoInputs.cache
+/Users/nando/Desktop/PracticeCoding/DotNetDependencies/obj/Debug/net7.0/DotNetDependencies.AssemblyInfo.cs
+/Users/nando/Desktop/PracticeCoding/DotNetDependencies/obj/Debug/net7.0/DotNetDependencies.csproj.CoreCompileInputs.cache
+/Users/nando/Desktop/PracticeCoding/DotNetDependencies/obj/Debug/net7.0/DotNetDependencies.dll
+/Users/nando/Desktop/PracticeCoding/DotNetDependencies/obj/Debug/net7.0/refint/DotNetDependencies.dll
+/Users/nando/Desktop/PracticeCoding/DotNetDependencies/obj/Debug/net7.0/DotNetDependencies.pdb
+/Users/nando/Desktop/PracticeCoding/DotNetDependencies/obj/Debug/net7.0/DotNetDependencies.genruntimeconfig.cache
+/Users/nando/Desktop/PracticeCoding/DotNetDependencies/obj/Debug/net7.0/ref/DotNetDependencies.dll
